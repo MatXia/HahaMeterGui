@@ -1,4 +1,4 @@
-import darkdetect, sv_ttk
+import darkdetect, sv_ttk, os, sys
 from tkinter import *
 from tkinter import ttk, messagebox
 from hahameter import get_score
@@ -7,7 +7,7 @@ root = Tk()
 root.title("HahaMeterGUI")
 root.geometry("400x200")
 root.resizable(False, False)
-root.iconbitmap(bitmap="smile.ico")
+root.iconbitmap(bitmap=f"{os.path.dirname(os.path.abspath(__file__))}\\smile.ico")
 
 def processing(event):
     score = round(get_score(smeh_var.get()) * 100)

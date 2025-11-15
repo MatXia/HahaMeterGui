@@ -6,7 +6,7 @@
 <img width="496" height="342" alt="Интерфейс" src="https://github.com/user-attachments/assets/bcd6a7da-a2f3-48a0-b09e-d30329d372de" /><br/>
 Интерфейс очень простой думаю и дурак разберётся.
 ## Установка
-Последнюю версию можно скачать как [exe файл](https://github.com/MatXia/HahaMeterGui/releases/latest) или клонировать репозиторий и докачать библиотеки:<br/>
+Последнюю версию можно скачать как [exe файл](https://github.com/MatXia/HahaMeterGui/releases/latest)(понадобиться установленный [Visual C++ Redistributable Runtime](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)) или клонировать репозиторий и докачать библиотеки:<br/>
 ```
 git clone https://github.com/MatXia/HahaMeterGui.git
 cd HahaMeterGui

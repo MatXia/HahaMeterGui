@@ -1,0 +1,4 @@
+darkdetect==0.8.0
+hahameter @ git+https://github.com/skrepkaq/HahaMeter.git
+sv_ttk==2.6.1
+

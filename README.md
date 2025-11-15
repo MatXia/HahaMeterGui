@@ -10,5 +10,5 @@
 ```
 git clone https://github.com/MatXia/HahaMeterGui.git
 cd HahaMeterGui
-pip install -r requirements
+pip install -r requirements.txt
 ```

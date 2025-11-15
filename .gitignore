@@ -1,0 +1,4 @@
+build_debug.bat
+build_release.bat
+HahaMeterGui.exe
+HahaMeterGui-Debug.exe

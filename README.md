@@ -12,3 +12,5 @@ git clone https://github.com/MatXia/HahaMeterGui.git
 cd HahaMeterGui
 pip install -r requirements.txt
 ```
+## Баги, которые возможно будут исправлены
+1. Комбинации клавиш копирование, вставки и т.д. работают только на английской раскладке(проблема не в моём коде, а в tkinter)
